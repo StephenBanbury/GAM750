@@ -100,6 +100,13 @@
         "com.unity.modules.ui": "1.0.0"
       }
     },
+    "com.unity.webrtc": {
+      "version": "2.0.3-preview",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
     "com.unity.xr.arsubsystems": {
       "version": "2.1.2",
       "depth": 1,
